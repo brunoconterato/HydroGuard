@@ -123,7 +123,7 @@ pytz==2024.2
 PyYAML==6.0.2
 pyzmq==26.4.0
 referencing==0.35.1
-requests==2.32.3
+requests==2.32.4
 rich==13.9.4
 rpds-py==0.21.0
 s3transfer==0.13.0
