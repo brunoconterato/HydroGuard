@@ -183,7 +183,7 @@ Para esta fase da Global Solution, o **HydroGuard** será apresentado como uma P
 
 9.  **Execute a Simulação do ESP32 no Wokwi:**
 
-    - Abra o projeto ESP32 no Wokwi: [Wokwi Project](https://wokwi.com/projects/432700067859996673)
+    - Abra o projeto ESP32 no Wokwi: [Wokwi Project](https://wokwi.com/projects/433514579666877441)
     - Inicie a simulação (play button).
     - Manipule os sliders para simular o nível da água e a precipitação.
 
@@ -302,3 +302,7 @@ O MVP do HydroGuard é um ponto de partida. Para futuras iterações, pretendemo
 ---
 
 **Desenvolvido com paixão e inteligência para um futuro mais seguro.**
+
+---
+
+Obs.: Original Wokwi project: [Original Wokwi Project](https://wokwi.com/projects/432700067859996673)
