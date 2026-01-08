@@ -3,7 +3,7 @@ annotated-types==0.7.0
 anyio==4.9.0
 asttokens==3.0.0
 attrs==24.2.0
-Authlib==1.6.0
+Authlib==1.6.6
 awscrt==0.24.1
 AWSIoTPythonSDK==1.5.4
 awsiotsdk==1.22.2
