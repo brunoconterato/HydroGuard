@@ -34,7 +34,7 @@ filelock==3.16.1
 fiona==1.10.1
 flake8==7.1.2
 Flask==3.1.1
-fonttools==4.57.0
+fonttools==4.61.0
 fsspec==2025.3.2
 GeoAlchemy2==0.17.1
 geopandas==1.0.1
