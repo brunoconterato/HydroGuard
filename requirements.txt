@@ -37,7 +37,7 @@ Flask==3.1.1
 fonttools==4.57.0
 fsspec==2025.3.2
 GeoAlchemy2==0.17.1
-geopandas==1.0.1
+geopandas==1.1.2
 gitdb==4.0.11
 GitPython==3.1.43
 greenlet==3.1.1
